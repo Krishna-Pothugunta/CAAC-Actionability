@@ -5,7 +5,9 @@ This repository contains code for **CAAC (Co-attentive Actionability Classificat
 ## Structure
 
 `caac/` → source code (co-attention, aggregation, entropy, CV=5 testing)
+
  `requirements.txt` → dependencies
+ 
  `.gitignore` → ignored files
 
 ## Quick start
