@@ -1,4 +1,4 @@
-\# CAAC: Co-attentive Actionability Classification
+# CAAC: Co-attentive Actionability Classification
 
 
 
@@ -8,17 +8,17 @@ a transformer-based model that aligns narration and visual frames to predict act
 
 
 
-\## Structure
+## Structure
 
-\- `caac/` → source code (co-attention, aggregation, entropy, CV=5 testing)
+`caac/` → source code (co-attention, aggregation, entropy, CV=5 testing)
 
-\- `requirements.txt` → dependencies
+ `requirements.txt` → dependencies
 
-\- `.gitignore` → ignored files
+ `.gitignore` → ignored files
 
 
 
-\## Quick start
+## Quick start
 
 ```bash
 
